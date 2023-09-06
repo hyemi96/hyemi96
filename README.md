@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on full skack web developer.
+- 🔭 I’m currently working on full skack developer.
 - 🌱 I’m currently majoring in computer science at Korea Open University.
 
 <!--
@@ -17,7 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-  <div align=center>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-  </div>
