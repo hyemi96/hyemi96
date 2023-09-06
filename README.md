@@ -54,3 +54,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/nginx-F8DC75?style=for-the-badge&logo=nginx&logoColor=white">
   <br>
 </div>
+
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyemi96)](https://github.com/anuraghazra/github-readme-stats)
