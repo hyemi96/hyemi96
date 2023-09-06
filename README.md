@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on full skack developer.
 - 🌱 I’m currently majoring in computer science at Korea Open University.
+- 💬 [여기](https://hyemi6017.tistory.com) This is my technology experience blog.
 
 <!--
 **hyemi96/hyemi96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
