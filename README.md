@@ -23,17 +23,16 @@ Here are some ideas to get you started:
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <br>
-  
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mssql-4479A1?style=for-the-badge&logo=mssql&logoColor=white"> 
   <br>
 
+  <img src="https://img.shields.io/badge/AWS-41454A?style=for-the-badge&logo=AWS&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Linux-4479A1?style=for-the-badge&logo=Linux&logoColor=white"> 
   <br>
   <!--
   <h2>And what I'm currently studying...</h2>
