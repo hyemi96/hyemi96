@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" style="max-width: 100%;">
 
-- 🔭 I’m currently working on full skack developer.
+- 🔭 I’m currently working on back-end developer.
 - 🌱 I’m currently majoring in computer science at Korea National Open University.
 - 💬 [여기](https://hyemi6017.tistory.com) This is my technology experience blog.
 
